@@ -1,0 +1,2 @@
+# MasterCoin
+Automatización de MasterCoin
