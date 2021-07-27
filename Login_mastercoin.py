@@ -6,10 +6,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
 
-user = 'chaossean@gmail.com'
-#user = 'yomotzuve@gmail.com'
-psw = 'chaos7823'
-
 url = 'https://mastercoin.top'
 url_login = 'https://mastercoin.top/login'
 url_bonus = 'https://mastercoin.top/cabinet/bonuses'
